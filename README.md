@@ -14,7 +14,6 @@ https://www.youtube.com/watch?v=c1RvTo_rRLc
 
 
 ## 4. 說明製作流程和相關操作
-1. 開啟 Unity 2022 版本，建立 3D 核心專案。
-2. 在 Scene 視窗中匯入 3D 模型。
-3. 使用移動 (W) 與旋轉 (E) 工具調整物件的位置與面向。
-4. 調整 Main Camera 視角，使用 Align with View 將攝影機對準人物。
+開啟 Unity 6.6 版本，建立專案。 在 Scene 視窗中選取 3D 人形模型 (FinalBaseMesh)。
+接下來使用移動 (W) 與旋轉 (E) 工具調整物件的位置與面向。
+最後調整 Main Camera 視角，將攝影機畫面完全對準人物。
