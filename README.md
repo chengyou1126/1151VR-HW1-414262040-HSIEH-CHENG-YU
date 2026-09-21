@@ -5,9 +5,13 @@
 
 
 ## 2. GitHub 連結
+https://github.com/chengyou1126/1151VR-HW1-414262040-HSIEH-CHENG-YU
+
 
 ## 3. YouTube 連結
-(貼上您螢幕錄影畫面上傳至 YouTube 影片的網址)
+https://www.youtube.com/watch?v=c1RvTo_rRLc
+
+
 
 ## 4. 說明製作流程和相關操作
 1. 開啟 Unity 2022 版本，建立 3D 核心專案。
