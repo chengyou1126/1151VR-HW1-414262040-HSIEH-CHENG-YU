@@ -1,4 +1,4 @@
-# 1151VR-HW1 作業1
+# 1151VR-HW1
 
 ## 1. 專案截圖
 <img width="1896" height="984" alt="Screenshot 2026-09-21 180530" src="https://github.com/user-attachments/assets/10ee71e2-3cd1-4950-931b-b3a42f2f04f7" />
